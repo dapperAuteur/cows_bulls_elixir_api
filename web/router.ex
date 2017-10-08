@@ -13,11 +13,11 @@ defmodule CowsBullsElixirApi.Router do
     plug :accepts, ["json"]
   end
 
-  scope "/", CowsBullsElixirApi do
-    pipe_through :browser # Use the default browser stack
-
-    get "/", PageController, :index
-  end
+  # scope "/", CowsBullsElixirApi do
+  #   pipe_through :browser # Use the default browser stack
+  #
+  #   get "/", PageController, :index
+  # end
 
   # players controller is used for the game
   scope "/api/0001", CowsBullsElixirApi do
