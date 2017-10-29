@@ -19,16 +19,13 @@ defmodule CowsBullsElixirApi.Router do
   #   get "/", PageController, :index
   # end
 
-  # players controller is used for the game
   scope "/api/0001", CowsBullsElixirApi do
     pipe_through :api
 
+    # player routes
     resources "/players", PlayerController
-  end
 
-  scope "/api/0001", CowsBullsElixirApi do
-    pipe_through :api
-
+    # word routes
     # resources "words", WordController
     get "/words", WordController, :index
     get "/words/:id", WordController, :show
