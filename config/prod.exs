@@ -18,7 +18,7 @@ config :cows_bulls_elixir_api, CowsBullsElixirApi.Endpoint,
   cache_static_manifest: "priv/static/manifest.json",
   secret_key_base: System.get_env("SECRET_KEY_BASE")
 
-config :cows_bulls_elixir_api, ElixirWordsApi.Repo,
+config :cows_bulls_elixir_api, CowsBullsElixirApi.Repo,
   adapter: Ecto.Adapters.Postgres,
   url: System.get_env("DATABASE_URL"),
   pool_size: String.to_integer(System.get_env("POOL_SIZE") || "10"),
