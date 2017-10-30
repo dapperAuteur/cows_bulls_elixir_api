@@ -1,6 +1,7 @@
 {application,cows_bulls_elixir_api,
              [{description,"cows_bulls_elixir_api"},
               {modules,['Elixir.CowsBullsElixirApi',
+                        'Elixir.CowsBullsElixirApi.AuthErrorHandler',
                         'Elixir.CowsBullsElixirApi.Endpoint',
                         'Elixir.CowsBullsElixirApi.ErrorHelpers',
                         'Elixir.CowsBullsElixirApi.ErrorView',
@@ -23,4 +24,4 @@
               {mod,{'Elixir.CowsBullsElixirApi',[]}},
               {applications,[kernel,stdlib,elixir,phoenix,phoenix_pubsub,
                              phoenix_html,cowboy,logger,gettext,phoenix_ecto,
-                             postgrex]}]}.
+                             postgrex,comeonin]}]}.

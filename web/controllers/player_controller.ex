@@ -1,21 +1,23 @@
 defmodule CowsBullsElixirApi.PlayerController do
   use CowsBullsElixirApi.Web, :controller
 
+  alias CowsBullsElixirApi.Player
+
   def index(conn, _params) do
-    players = Repo.all(CowsBullsElixirApi.Player)
+    players = Repo.all(Player)
 
     json conn_with_status(conn, players), players
   end
 
   def show(conn, %{"id" => id}) do
-    player = Repo.get(CowsBullsElixirApi.Player, String.to_integer(id))
+    player = Repo.get(Player, String.to_integer(id))
 
     json conn_with_status(conn, player), player
   end
 
   def create(conn, params) do
-    changeset = CowsBullsElixirApi.Player.changeset(
-      %CowsBullsElixirApi.Player{}, params
+    changeset = Player.changeset(
+      %Player{}, params
     )
     case Repo.insert(changeset) do
       {:ok, player} ->
@@ -26,7 +28,7 @@ defmodule CowsBullsElixirApi.PlayerController do
   end
 
   def update(conn, %{"id" => id} = params) do
-    player = Repo.get(CowsBullsElixirApi.Player, id)
+    player = Repo.get(Player, id)
     if player do
       perform_update(conn, player, params)
     else
@@ -36,7 +38,7 @@ defmodule CowsBullsElixirApi.PlayerController do
   end
 
   def delete(conn, %{"id" => id}) do
-    player = Repo.get(CowsBullsElixirApi.Player, id)
+    player = Repo.get(Player, id)
     if player do
       Repo.delete(player)
       json conn |> put_status(:accepted), format_api_response(player)
@@ -58,7 +60,7 @@ defmodule CowsBullsElixirApi.PlayerController do
   end
 
   defp perform_update(conn, player, params) do
-    changeset = CowsBullsElixirApi.Player.changeset(player, params)
+    changeset = Player.changeset(player, params)
     case Repo.update(changeset) do
       {:ok, player} ->
         json conn |> put_status(:ok), player
