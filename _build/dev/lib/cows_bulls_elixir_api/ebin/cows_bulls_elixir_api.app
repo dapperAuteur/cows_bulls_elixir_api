@@ -5,6 +5,7 @@
                         'Elixir.CowsBullsElixirApi.Endpoint',
                         'Elixir.CowsBullsElixirApi.ErrorHelpers',
                         'Elixir.CowsBullsElixirApi.ErrorView',
+                        'Elixir.CowsBullsElixirApi.Game',
                         'Elixir.CowsBullsElixirApi.Gettext',
                         'Elixir.CowsBullsElixirApi.LayoutView',
                         'Elixir.CowsBullsElixirApi.PageController',

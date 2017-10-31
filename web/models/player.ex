@@ -9,6 +9,7 @@ defmodule CowsBullsElixirApi.Player do
     field :gamesPlayed, :string
     field :password, :string, virtual: true
     field :password_hash, :string
+    has_many :games, CowsBullsElixirApi.Game
 
     timestamps()
   end

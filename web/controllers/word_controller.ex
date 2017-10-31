@@ -1,14 +1,16 @@
 defmodule CowsBullsElixirApi.WordController do
   use CowsBullsElixirApi.Web, :controller
 
+  alias CowsBullsElixirApi.Word
+
   def index(conn, _params) do
-    words = Repo.all(CowsBullsElixirApi.Word)
+    words = Repo.all(Word)
 
     json conn_with_status(conn, words), words
   end
 
   def show(conn, %{"id" => id}) do
-    word = Repo.get(CowsBullsElixirApi.Word, String.to_integer(id))
+    word = Repo.get(Word, String.to_integer(id))
 
     json conn_with_status(conn, word), word
   end

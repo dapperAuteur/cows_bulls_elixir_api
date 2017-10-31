@@ -7,6 +7,7 @@ defmodule CowsBullsElixirApi.Word do
     field :f_points, :string
     field :in_game, :boolean
     field :tongue, :string
+    has_many :games, CowsBullsElixirApi.Game
 
     timestamps()
   end
