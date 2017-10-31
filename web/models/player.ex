@@ -17,6 +17,8 @@ defmodule CowsBullsElixirApi.Player do
   def changeset(model, params \\ %{}) do
     model
       |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed])
+      |> validate_length(:email, min: 1, max: 255)
+      |> validate_format(:email, ~r/@/)
       |> unique_constraint(:email)
   end
 

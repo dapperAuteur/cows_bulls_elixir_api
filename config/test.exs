@@ -6,6 +6,10 @@ config :cows_bulls_elixir_api, CowsBullsElixirApi.Endpoint,
   http: [port: 4001],
   server: false
 
+# allows us to speed up tests by turning down encryption
+config :comeonin, :bcrypt_log_rounds, 4
+config :comeonin, :pbkdf2_rounds, 1
+
 # Print only warnings and errors during test
 config :logger, level: :warn
 
