@@ -1,5 +1,6 @@
 defmodule CowsBullsElixirApi.PlayerController do
   use CowsBullsElixirApi.Web, :controller
+  plug :authenticate when action in [:index, :show]
 
   alias CowsBullsElixirApi.Player
 
@@ -15,10 +16,9 @@ defmodule CowsBullsElixirApi.PlayerController do
     json conn_with_status(conn, player), player
   end
 
-  def create(conn, params) do
-    changeset = Player.changeset(
-      %Player{}, params
-    )
+  def create(conn, %{"player" => player_params}) do
+    changeset = Player.registration_changeset(
+      %Player{}, player_params)
     case Repo.insert(changeset) do
       {:ok, player} ->
         json conn |> put_status(:created), player
@@ -67,6 +67,17 @@ defmodule CowsBullsElixirApi.PlayerController do
       {:error, _result} ->
         json conn |> put_status(:bad_request),
                       %{errors: ["unable to update player"] }
+    end
+  end
+
+  defp authenticate(conn, _opts) do
+    if conn.assigns.current_player do
+      conn
+    else
+      conn
+      # |> error.json ADD THIS, the line below should work
+      json conn |> put_status(:bad_request), %{errors: ["unable to authenticate player"] }
+      |> halt()
     end
   end
 end

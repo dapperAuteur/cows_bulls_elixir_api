@@ -7,6 +7,7 @@ defmodule CowsBullsElixirApi.Router do
     plug :fetch_flash
     plug :protect_from_forgery
     plug :put_secure_browser_headers
+    plug CowsBullsElixirApi.Auth, repo: CowsBullsElixirApi.Repo
   end
 
   pipeline :api do
@@ -24,6 +25,9 @@ defmodule CowsBullsElixirApi.Router do
 
     # player routes
     resources "/players", PlayerController
+
+    # session routes
+    resources "/sessions", SessionController, only: [:create, :delete]
 
     # word routes
     # resources "words", WordController
