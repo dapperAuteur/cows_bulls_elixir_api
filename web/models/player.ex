@@ -9,14 +9,15 @@ defmodule CowsBullsElixirApi.Player do
     field :gamesPlayed, :string
     field :password, :string, virtual: true
     field :password_hash, :string
+    field :username, :string
 
     timestamps()
   end
 
   def changeset(model, params \\ %{}) do
     model
-      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed])
-      |> unique_constraint(:email)
+      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed, :username])
+      |> unique_constraint(:email, :username)
   end
 
   def registration_changeset(model, params) do

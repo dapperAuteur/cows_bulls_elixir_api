@@ -38,5 +38,7 @@ defmodule CowsBullsElixirApi.Endpoint do
     key: "_cows_bulls_elixir_api_key",
     signing_salt: "H0DsOKtz"
 
+  plug CORSPlug
+
   plug CowsBullsElixirApi.Router
 end
