@@ -14,14 +14,15 @@ defmodule CowsBullsElixirApi.Player do
     timestamps()
   end
 
-  def changeset(model, params \\ %{}) do
-    model
+  def changeset(struct, params \\ %{}) do
+    struct
       |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed, :username])
-      |> unique_constraint(:email, :username)
+      |> unique_constraint(:email)
+      |> unique_constraint(:username) # unique username constraint not working
   end
 
-  def registration_changeset(model, params) do
-    model
+  def registration_changeset(struct, params) do
+    struct
     |> changeset(params)
     |> cast(params, ~w(password), [])
     |> validate_length(:password, min: 8, max: 100)
