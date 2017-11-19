@@ -1,0 +1,2072 @@
+[
+ {
+   "spanish": "ayudar",
+   "english": "to help",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "amar",
+   "english": "to love",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "aceptar",
+   "english": "to accept",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "alquilar",
+   "english": "to rent",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "apagar",
+   "english": "to turn off",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "ahorrar",
+   "english": "to save money",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "aprovechar",
+   "english": "to take advantage",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "andar",
+   "english": "to ride",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "afeitarse",
+   "english": "to shave",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "acostumbrar",
+   "english": "to use to, accostom to",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "arrestar",
+   "english": "to arrest",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "bajar",
+   "english": "to descend",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "broncearse",
+   "english": "to get a tan",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "bañarse",
+   "english": "to bath",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "besar",
+   "english": "to kiss",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "bailar",
+   "english": "to dance",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "buscar",
+   "english": "to look for",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "bucear",
+   "english": "to dive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "bromear",
+   "english": "to joke",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cenar",
+   "english": "to eat dinner",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cantar",
+   "english": "to sing",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "comprar",
+   "english": "to buy",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cocinar",
+   "english": "to cook",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "celebrar",
+   "english": "to celebrate",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cobrar",
+   "english": "to charge",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cambiar",
+   "english": "to change",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "casarse",
+   "english": "to get married",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "caminar",
+   "english": "to walk",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "contestar",
+   "english": "to answer",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "enseñar",
+   "english": "to teach",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "lavar",
+   "english": "to wash",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "mirar",
+   "english": "to watch",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "viajar",
+   "english": "to travel",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "ganar",
+   "english": "to win, earn",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "pagar",
+   "english": "to pay",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "regresar",
+   "english": "to return",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "entrar",
+   "english": "to enter",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "tomar",
+   "english": "to take, drink",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "desayunar",
+   "english": "to eat breakfast",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "fumar",
+   "english": "to smoke",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "pescar",
+   "english": "to fish",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "empujar",
+   "english": "to push",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "escalar",
+   "english": "to climb",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "divorciarse",
+   "english": "to divorce",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "pasear",
+   "english": "to take a walk",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "saltar",
+   "english": "to jump",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "quitar",
+   "english": "to remove",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "repasar",
+   "english": "to review",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "explicar",
+   "english": "to explain",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "hablar",
+   "english": "to speak",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "rentar",
+   "english": "to rent",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "descansar",
+   "english": "to rest",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "llevar",
+   "english": "to carry, wear",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "usar",
+   "english": "to use",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "olvidar",
+   "english": "to forget",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "prestar",
+   "english": "to lend, borrow",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "odiar",
+   "english": "to hate",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cortar",
+   "english": "to cut",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "graduarse",
+   "english": "to graduate",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "limpiar",
+   "english": "to clean",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "pintar",
+   "english": "to paint",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "gozar",
+   "english": "to enjoy",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "enfermarse",
+   "english": "to get sick",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "dejar",
+   "english": "to leave",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "preguntar",
+   "english": "to ask for",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "estudiar",
+   "english": "to study",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "lavarse",
+   "english": "to wash on myself",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "manejar",
+   "english": "to drive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "escuchar",
+   "english": "to listen",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "reparar",
+   "english": "to repair, fix",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "desear",
+   "english": "to desire",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "faltar",
+   "english": "to lack",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "gustar",
+   "english": "to like",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "disfrutar",
+   "english": "to enjoy",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "gastar",
+   "english": "to spend",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "molestar",
+   "english": "to bother",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "soplar",
+   "english": "to blow",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "hallar",
+   "english": "to find",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "preparar",
+   "english": "to prepare",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "necesitar",
+   "english": "to need",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "invitar",
+   "english": "to invite",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "esperar",
+   "english": "to wait, hope",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "levantarse",
+   "english": "to get up",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "secar",
+   "english": "to dry",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "llegar",
+   "english": "to arrive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "sudar",
+   "english": "to sweat",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "perdonar",
+   "english": "to forgive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "regalar",
+   "english": "tp give a present",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "respirar",
+   "english": "to breathe",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "enviar",
+   "english": "to send",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "castigar",
+   "english": "to punish",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "nadar",
+   "english": "to swim",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "llorar",
+   "english": "to cry",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "quedarse",
+   "english": "to stay",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cuidarse",
+   "english": "to take care",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "dibujar",
+   "english": "to draw",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "llamar",
+   "english": "to call",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "pasar",
+   "english": "to pass",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "quemarse",
+   "english": "to burn",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "terminar",
+   "english": "to finish",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "tocar",
+   "english": "to touch things, knock, play an instrument",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "visitar",
+   "english": "to visit",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "trabajar",
+   "english": "to work",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "entregar",
+   "english": "to deliver",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "quejarse",
+   "english": "to complain",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cargar",
+   "english": "to recharge, load",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "comer",
+   "english": "to eat",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "temer",
+   "english": "to be afraid",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "ofender",
+   "english": "to offend",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "vender",
+   "english": "to sell",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "poseer",
+   "english": "to own",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "leer",
+   "english": "to read",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "beber",
+   "english": "to drink",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "creer",
+   "english": "to believe",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "prometer",
+   "english": "to promise",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "aprender",
+   "english": "to learn",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "barrer",
+   "english": "to sweep",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "responder",
+   "english": "to answer",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "correr",
+   "english": "to run",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "comprender",
+   "english": "to understand",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "romper",
+   "english": "to rip, tear",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "meter",
+   "english": "to put in to",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "aprehender",
+   "english": "to arrest",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "deber",
+   "english": "to must, owe",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "esconderse",
+   "english": "to hide",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "depender",
+   "english": "to depend on",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "someter",
+   "english": "to submit",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "sorprender",
+   "english": "to surprise",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "attreverse",
+   "english": "to venture, dare",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "abrir",
+   "english": "to open",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "dividir",
+   "english": "to divide",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "sufrir",
+   "english": "to endure",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "admitir",
+   "english": "to admit",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "percibir",
+   "english": "to perceive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cubrir",
+   "english": "to cover",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "suprimir",
+   "english": "to abolish",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "imprimir",
+   "english": "to print",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "decidir",
+   "english": "to decide",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "resumir",
+   "english": "to resume",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "compartir",
+   "english": "to share",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "reunirse",
+   "english": "to meet, to get together",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "gruñir",
+   "english": "to grumble",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "cumplir",
+   "english": "to keep, to reach one's birthday",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "inscribirse",
+   "english": "to register",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "suscribirse",
+   "english": "to subscribe to",
+   "reflexive": true,
+   "grupo": 0
+ },
+ {
+   "spanish": "insistir",
+   "english": "to insist, to persister",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "describir",
+   "english": "to describe",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "recibir",
+   "english": "to receive",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "pulir",
+   "english": "to polish",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "prohibir",
+   "english": "to prohibit",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "resistir",
+   "english": "to resist",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "existir",
+   "english": "to exist",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "oprimir",
+   "english": "to press, squeeze",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "sacudir",
+   "english": "to shake",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "subir",
+   "english": "to climb",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "unir",
+   "english": "to unite, join",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "discutir",
+   "english": "to discuss",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "partir",
+   "english": "to depart, divide",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "discubrir",
+   "english": "to discover",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "repartir",
+   "english": "to disctribute",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "asistir",
+   "english": "to attend",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "escribir",
+   "english": "to write",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "vivir",
+   "english": "to live",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "permitir",
+   "english": "to permit",
+   "reflexive": false,
+   "grupo": 0
+ },
+ {
+   "spanish": "sonar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "soñar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "costar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "llover",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "soler",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "tronar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "mostrar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "almorzar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "jugar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "encontrarse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 1
+ },
+ {
+   "spanish": "morir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "acordarse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 1
+ },
+ {
+   "spanish": "acostarse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 1
+ },
+ {
+   "spanish": "aprobar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "contar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "colar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "demonstrar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "dolor",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "dormir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "envolver",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "morder",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "moverse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 1
+ },
+ {
+   "spanish": "volar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "poder",
+   "english": "",
+   "reflexive": false,
+   "grupo": 1
+ },
+ {
+   "spanish": "sentirse",
+   "english": "to feel (own feelings)",
+   "reflexive": true,
+   "grupo": 2
+ },
+ {
+   "spanish": "sentarse",
+   "english": "to sit down (self)",
+   "reflexive": true,
+   "grupo": 2
+ },
+ {
+   "spanish": "nevar",
+   "english": "to snow (only use in 'it' form)",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "comensar",
+   "english": "to begin",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "querer",
+   "english": "to want",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "calentar",
+   "english": "to warm/heat up",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "despertarse",
+   "english": "to get/wake up",
+   "reflexive": true,
+   "grupo": 2
+ },
+ {
+   "spanish": "negar",
+   "english": "to deny",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "empezar",
+   "english": "to start",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "encender",
+   "english": "to turn on (things)",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "pensar",
+   "english": "to think",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "serar",
+   "english": "to close",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "hervir",
+   "english": "to boil",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "herir",
+   "english": "to cut (body/feeling)",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "quebrar",
+   "english": "to break",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "perderse",
+   "english": "to lose (things/self)",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "mentir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "entender",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "cerrar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "consentir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "fregar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "temblar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "tropezar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "arrepentirse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 2
+ },
+ {
+   "spanish": "atravesar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "sugerir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "divertirse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 2
+ },
+ {
+   "spanish": "atender",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "vertir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "confesar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "herir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "acertar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "advertir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "sembrar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "digerir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "defender",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "regar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "convertir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "preferir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 2
+ },
+ {
+   "spanish": "medir",
+   "english": "to measure",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "vestirse",
+   "english": "to dress (oneself)",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "desvestirse",
+   "english": "to undress (oneself)",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "teñirse",
+   "english": "to dye (ones clothes/hair)",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "despedirse",
+   "english": "to say goodbye",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "reirse",
+   "english": "to laugh",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "sonreir",
+   "english": "to smile",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "pedir",
+   "english": "to can/be able to",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "servir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "repetir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "derretirse",
+   "english": "",
+   "reflexive": true,
+   "grupo": 3
+ },
+ {
+   "spanish": "impedir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "competir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "freir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "reñir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "gemir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 3
+ },
+ {
+   "spanish": "conocer",
+   "english": "to know how",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "traducir",
+   "english": "to translate",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "conducir",
+   "english": "to drive/conduct",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "crecer",
+   "english": "to grow (up)",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "reducir",
+   "english": "to reduce",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "seducir (a)",
+   "english": "to seduce",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "agradecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "obdecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "merecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "nacer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "lucir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "producir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "inducir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "ofrecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "aparecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "pertenecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "introducir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "permanecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "parecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "amanecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "desaparecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "establecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "recononcer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "deducir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "desconocer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "carecer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 4
+ },
+ {
+   "spanish": "salir",
+   "english": "to get out",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "poner",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "reponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "componer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "disponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "exponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "suponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "proponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "posponer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "valer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 5
+ },
+ {
+   "spanish": "tener",
+   "english": "to have",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "contener",
+   "english": "to contain",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "sostener",
+   "english": "to sustain",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "obtener",
+   "english": "to obtain",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "mantener",
+   "english": "to maintain",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "retener",
+   "english": "to retain",
+   "reflexive": false,
+   "grupo": 5.1
+ },
+ {
+   "spanish": "decir",
+   "english": "to say",
+   "reflexive": false,
+   "grupo": 5.2
+ },
+ {
+   "spanish": "maldecir",
+   "english": "to curse",
+   "reflexive": false,
+   "grupo": 5.2
+ },
+ {
+   "spanish": "bendecir",
+   "english": "to bless",
+   "reflexive": false,
+   "grupo": 5.2
+ },
+ {
+   "spanish": "hacer",
+   "english": "to make/do",
+   "reflexive": false,
+   "grupo": 5.2
+ },
+ {
+   "spanish": "traer",
+   "english": "to bring",
+   "reflexive": false,
+   "grupo": 5.3
+ },
+ {
+   "spanish": "caerse",
+   "english": "to fall down",
+   "reflexive": true,
+   "grupo": 5.3
+ },
+ {
+   "spanish": "contraer",
+   "english": "to contrac",
+   "reflexive": false,
+   "grupo": 5.3
+ },
+ {
+   "spanish": "dar",
+   "english": "to give",
+   "reflexive": false,
+   "grupo": 6
+ },
+ {
+   "spanish": "estar",
+   "english": "to be (temporary)",
+   "reflexive": false,
+   "grupo": 6
+ },
+ {
+   "spanish": "oler",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "saber",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "haber",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "ser",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "ver",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "caber",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "oír",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "ir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 7
+ },
+ {
+   "spanish": "construir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "destruir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "excluir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "distribuir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "contribuir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "incuir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "concluir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "sustituir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "disminuir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "huir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "constituir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "diluir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "fluir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 8
+ },
+ {
+   "spanish": "escoger",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "elegir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "proteger",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "recoger",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "exigir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "sumergir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "surgir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "dirigir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "fingir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "coger",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "corregir (e x i)",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "encoger",
+   "english": "",
+   "reflexive": false,
+   "grupo": 9
+ },
+ {
+   "spanish": "seguir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "conseguir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "extinguir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "distinguir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "extinguir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "perseguir (e x i)",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "proseguir (e x i)",
+   "english": "",
+   "reflexive": false,
+   "grupo": 10
+ },
+ {
+   "spanish": "traducir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11
+ },
+ {
+   "spanish": "conducir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11
+ },
+ {
+   "spanish": "decir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.1
+ },
+ {
+   "spanish": "bendecir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.1
+ },
+ {
+   "spanish": "maldecir",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.1
+ },
+ {
+   "spanish": "traer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.2
+ },
+ {
+   "spanish": "distraer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.2
+ },
+ {
+   "spanish": "contraer",
+   "english": "",
+   "reflexive": false,
+   "grupo": 11.2
+ },
+ {
+   "spanish": "estar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 12
+ },
+ {
+   "spanish": "tener",
+   "english": "",
+   "reflexive": false,
+   "grupo": 12
+ },
+ {
+   "spanish": "andar",
+   "english": "",
+   "reflexive": false,
+   "grupo": 12
+ }
+]
