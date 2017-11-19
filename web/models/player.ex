@@ -9,18 +9,21 @@ defmodule CowsBullsElixirApi.Player do
     field :gamesPlayed, :string
     field :password, :string, virtual: true
     field :password_hash, :string
+    field :username, :string
+    field :role, :integer
 
     timestamps()
   end
 
-  def changeset(model, params \\ %{}) do
-    model
-      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed])
+  def changeset(struct, params \\ %{}) do
+    struct
+      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed, :username, :role])
       |> unique_constraint(:email)
+      |> unique_constraint(:username) # unique username constraint not working
   end
 
-  def registration_changeset(model, params) do
-    model
+  def registration_changeset(struct, params) do
+    struct
     |> changeset(params)
     |> cast(params, ~w(password), [])
     |> validate_length(:password, min: 8, max: 100)
