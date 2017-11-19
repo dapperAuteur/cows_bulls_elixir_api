@@ -19,7 +19,7 @@ defmodule CowsBullsElixirApi.Mixfile do
   def application do
     [mod: {CowsBullsElixirApi, []},
      applications: [:phoenix, :phoenix_pubsub, :phoenix_html, :cowboy, :logger, :gettext,
-                    :phoenix_ecto, :postgrex, :comeonin]]
+                    :phoenix_ecto, :postgrex, :comeonin, :ueberauth_auth0]]
   end
 
   # Specifies which paths to compile per environment.
@@ -39,7 +39,8 @@ defmodule CowsBullsElixirApi.Mixfile do
      {:gettext, "~> 0.11"},
      {:cowboy, "~> 1.0"},
      {:comeonin, "~> 2.0"},
-     {:cors_plug, "~> 1.2"}]
+     {:cors_plug, "~> 1.2"},
+     {:ueberauth_auth0, "~> 0.3"}]
   end
 
   # Aliases are shortcuts or tasks specific to the current project.
