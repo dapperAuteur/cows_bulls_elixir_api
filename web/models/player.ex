@@ -10,13 +10,14 @@ defmodule CowsBullsElixirApi.Player do
     field :password, :string, virtual: true
     field :password_hash, :string
     field :username, :string
+    field :role, :integer
 
     timestamps()
   end
 
   def changeset(struct, params \\ %{}) do
     struct
-      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed, :username])
+      |> cast(params, [:email, :firstName, :middleName, :lastName, :gamesPlayed, :username, :role])
       |> unique_constraint(:email)
       |> unique_constraint(:username) # unique username constraint not working
   end
