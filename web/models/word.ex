@@ -10,4 +10,11 @@ defmodule CowsBullsElixirApi.Word do
 
     timestamps()
   end
+
+  def changeset(struct, params \\ %{}) do
+    struct
+    |> cast(params, [:word, :s_points, :f_points, :in_game, :tongue])
+    |> unique_constraint(:word)
+    |> validate_length(:word, min: 4, max: 4)
+  end
 end
