@@ -1,5 +1,5 @@
 # CowsBullsElixirApi
-
+#### API is built using Elixir/Phoenix and is hosted at: https://peaceful-forest-74170.herokuapp.com/api/0001/players/
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`

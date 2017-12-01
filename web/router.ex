@@ -27,7 +27,7 @@ defmodule CowsBullsElixirApi.Router do
 
     # word routes
     # resources "words", WordController
-    get "/words", WordController, :index
+    resources "/words", WordController
     get "/words/:id", WordController, :show
   end
 
