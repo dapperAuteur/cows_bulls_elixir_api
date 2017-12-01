@@ -27,7 +27,7 @@ defmodule CowsBullsElixirApi.WordController do
     end
   end
 
-  def update(conn, %{"id" = id} = params) do
+  def update(conn, %{"id" => id} = params) do
     word = Repo.get(Word, id)
     if word do
       perform_update(conn, word, params)
@@ -56,5 +56,15 @@ defmodule CowsBullsElixirApi.WordController do
   defp conn_with_status(conn, _) do
     conn
       |> put_status(:ok)
+  end
+
+  defp perform_update(conn, word, params) do
+    changeset = Word.changeset(word, params)
+    case Repo.update(changeset) do
+      {:ok, word} ->
+        json conn |> put_status(:ok), word
+      {:error, _result} ->
+        json conn |> put_status(:bad_request), %{errors: ["unable to update word"] }
+    end
   end
 end
