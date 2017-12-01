@@ -23,7 +23,9 @@ defmodule CowsBullsElixirApi.Router do
     pipe_through :api
 
     # player routes
-    resources "/players", PlayerController
+    resources "/players", PlayerController do
+      resources "/games", GameController
+    end
 
     # word routes
     # resources "words", WordController

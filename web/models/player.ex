@@ -11,6 +11,7 @@ defmodule CowsBullsElixirApi.Player do
     field :password_hash, :string
     field :username, :string
     field :role, :integer
+    has_many :games, CowsBullsElixirApi.Game
 
     timestamps()
   end
